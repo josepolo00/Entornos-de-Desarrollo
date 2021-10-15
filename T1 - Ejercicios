@@ -15,7 +15,6 @@ El ciclo de vida del software describe el desarrollo de software, desde la fase 
 - Integración: garantiza que los diferentes módulos se integren con la aplicación. Este es el propósito de la prueba de integración que está cuidadosamente documentada.
 - Prueba beta (o validación): garantiza que el software cumple con las especificaciones originales.
 - Documentación: sirve para documentar información necesaria para los usuarios del software y para desarrollos futuros.
-- Implementación
 - Mantenimiento: comprende todos los procedimientos correctivos (mantenimiento correctivo) y las actualizaciones secundarias del software (mantenimiento continuo).
 
 3. Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
